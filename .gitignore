@@ -1,0 +1,9 @@
+# Python helper scripts
+*.py
+__pycache__/
+*.pyc
+
+# OS / Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
