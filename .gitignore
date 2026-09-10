@@ -7,3 +7,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 *.tmp
+Lab02/
+.mcp.json
+.playwright-mcp
+*.zip
